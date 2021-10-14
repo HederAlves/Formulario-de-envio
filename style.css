@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+	background: url("bg-intro-desktop.png"), hsl(0, 100%, 74%);
+}
+
+.blocoCabecalho {
+
+
+}
+
+h1 {
+	color: white;
+	font-size: 35px;
+
+}
+
