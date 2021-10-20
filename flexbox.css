@@ -7,11 +7,29 @@ body {
 .blocoCabecalho {
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;	
-	height: 200px;
+	justify-content: center;	
+	height: 665px;
 }
 
 h1 {
-	width: 50%;
-
+	width: 90%;
 }
+
+.conteudoPrincipal {
+	display: flex;
+	flex-direction: column;
+	height: 665px;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	padding: 30px;
+	height: 520px;
+}
+
+		/*MOBILE*/
+@media(max-width: 768px) {
+
+
+	}
