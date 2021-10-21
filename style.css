@@ -1,6 +1,7 @@
 body {
 	font-family: sans-serif;
 	background: url("bg-intro-desktop.png"), hsl(0, 100%, 74%);
+	margin: 0 auto;
 }
 
 .blocoCabecalho {
@@ -12,6 +13,7 @@ body {
 	margin-top: 45px;
 	font-size: 20px;
 	line-height: 1.5;
+	width: 600px;
 }
 
 h1 {
@@ -35,11 +37,12 @@ h2 {
 	color: white;
 	border-radius: 7px;
 	background: hsl(248, 32%, 49%);
-	margin-bottom: 25px;
+	margin: 42px 0px 25px 0px;
 
 }
 
 .blocoForm {
+	box-shadow: 0px 5px 10px 0px #CCCCCC;
 	box-sizing: border-box;
 	padding: 10px;
 	background: white;
@@ -70,11 +73,4 @@ h2 {
 	color: hsl(246, 25%, 77%);
 	font-size: 13px;
 	text-align: center;
-}
-
-
-		/*MOBILE*/
-@media(max-width: 768px) {
-
-
 }
