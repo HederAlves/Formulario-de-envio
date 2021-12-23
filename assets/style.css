@@ -1,6 +1,6 @@
 body {
 	font-family: sans-serif;
-	background: url("bg-intro-desktop.png"), hsl(0, 100%, 74%);
+	background: url("../image/bg-intro-desktop.png"), hsl(0, 100%, 74%);
 	margin: 0 auto;
 }
 
